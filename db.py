@@ -9,3 +9,8 @@ def calc(a,b):
 
 def sqrt(a):
 	return math.sqrt(a)
+
+#Added by Madhu	
+
+def fun(a):
+	print(a)
